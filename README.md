@@ -1,4 +1,4 @@
-# 李世怡 · 市场助理作品集
+# 李世怡 · 御微半导体市场助理作品集
 
 公开网站：https://lishiyi-aia.github.io/market-assistant-2027/
 

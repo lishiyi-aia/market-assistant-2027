@@ -27,13 +27,13 @@ const COPY = {
   en: {
     title: 'About Shiyi',
     paragraphs: [
-      "Shiyi Li · Marketing Assistant applicant and 2027 Master of Marketing candidate. I support technology-product promotion through events, content, digital channels and cross-team coordination. AI-assisted creation and performance reviews help turn feedback into the next round of action.",
+      "Shiyi Li · Applying for Marketing Assistant at 御微半导体. A 2027 Master of Marketing candidate, I support technology-product promotion through events, content, digital channels and cross-team coordination. AI-assisted creation and performance reviews help turn feedback into the next round of action.",
     ],
   },
   zh: {
     title: 'About Shiyi',
     paragraphs: [
-      '李世怡｜市场助理岗位申请。2027届市场营销硕士，英语可作工作语言。围绕科技产品推广，参与市场活动执行、宣传内容与物料准备、数字渠道运营及团队协作；借助 AI 制作与数据复盘，将反馈带回下一轮推广。',
+      '李世怡｜御微半导体 · 市场助理岗位申请。2027届市场营销硕士，英语可作工作语言。围绕科技产品推广，参与市场活动执行、宣传内容与物料准备、数字渠道运营及团队协作；借助 AI 制作与数据复盘，将反馈带回下一轮推广。',
     ],
   },
 }
@@ -181,7 +181,7 @@ export default function App() {
         </div>
         <div className="hero-meta hm-tr">2026</div>
         <div className="hero-meta hm-bl">Market Support · Cross-team Coordination · AI-assisted Creation</div>
-        <div className="hero-meta hm-right">Marketing Assistant · 2027</div>
+        <div className="hero-meta hm-right">御微半导体 · Marketing Assistant · 2027</div>
       </motion.div>
 
       {/* 全屏胶片噪点蒙层（multiply 混合） */}
